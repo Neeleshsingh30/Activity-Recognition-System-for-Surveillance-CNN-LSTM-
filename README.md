@@ -27,27 +27,6 @@ The system is optimized for real-time CCTV surveillance, offering fast inference
 4) NumPy, Pandas, Matplotlib 
 5) Scikit-learn
 
-
-# Project Structure
-├── dataset/
-│   ├── fight/
-│   ├── loitering/
-│   ├── trespassing/
-│   └── running/
-├── preprocessing/
-│   ├── extract_frames.py
-│   ├── normalize_frames.py
-│   └── create_sequences.py
-├── model/
-│   ├── cnn_lstm_model.ipynb
-│   ├── train.py
-│   └── evaluate.py
-├── real_time/
-│   └── realtime_inference.py
-├── requirements.txt
-└── README.md
-
-
 # Contact
 # For queries or collaboration:
 Name - Neelesh Singh
